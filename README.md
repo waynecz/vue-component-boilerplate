@@ -50,8 +50,10 @@ cd example-name
 
 # delete original git files
 rm -rf .git
+
 # create new one upon link your repo
 git init && git remote add origin {your repo address}
+
 # install dependices
 yarn
 ```
