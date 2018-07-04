@@ -43,11 +43,15 @@
 ## Install and Usage
 
 ```bash
+# clone boilerplate
 git clone https://github.com/waynecz/vue-component-boilerplate.git example-name
+
 cd example-name
+# delete original git file
 rm -rf .git
-git init
-git remote add origin {your repo address}
+# create new one
+git init && git remote add origin {your repo address}
+# install dependices
 yarn
 ```
 
@@ -55,13 +59,13 @@ yarn
 2.  Start writting your component and:
 
     ```bash
-    // develop
+    # develop
     npm run dev
 
-    // build component
+    # build component
     npm run build
 
-    // build demo
+    # build demo
     npm run build:demo
     ```
 
