@@ -1,21 +1,21 @@
 <br>
 
 <p align="center">
-  <img width="300px" src="./src/assets/logo.png" alt="logo" />
+  <img width="280px" src="./src/assets/logo.png" alt="logo" />
 </p>
 <br>
 
 <p align="center">
-  <img alt="GitHub release" src="https://img.shields.io/badge/release-v1.0.0-lightgrey.svg?style=for-the-badge"/>
-  <img alt="poi" src="https://img.shields.io/badge/poi-10-lightgrey.svg?style=for-the-badge"/>
-  <img alt="Bili" src="https://img.shields.io/badge/bili-3-lightgrey.svg?style=for-the-badge"/>
+  <img alt="GitHub release" src="https://img.shields.io/badge/release-v1.0.0-orange.svg?style=for-the-badge"/>
+  <img alt="poi" src="https://img.shields.io/badge/poi-10-green.svg?style=for-the-badge"/>
+  <img alt="Bili" src="https://img.shields.io/badge/bili-3-blue.svg?style=for-the-badge"/>
 </p>
 
 <br>
 
 <p align="center">
   <b>
-    <a href="https://github.com/waynecz">Other link</a>
+    <a href="https://github.com/waynecz">Other link for instance</a>
     |
     <a href="https://github.com/waynecz/vue-img-inputer">Have a glance at Demo</a>
   </b>
@@ -48,6 +48,7 @@ cd example-name
 rm -rf .git
 git init
 git remote add origin {your repo address}
+yarn
 ```
 
 1.  Replace things in [package.json](./package.json) with your own
