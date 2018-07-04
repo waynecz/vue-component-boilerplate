@@ -108,6 +108,6 @@ yarn
 
 <br>
 
-## Other things such as License / Thanks
+## Other things such as Contribute guide / License / Thanks ...
 
 > It's your turn
