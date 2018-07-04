@@ -28,7 +28,7 @@
 - ( List your features here )
 - Bili ( rollup ) for building component in `es/cjs/umd` ways
 - Poi ( webpack ) for running & building demo
-- Readme.md template with document inline
+- Concise `Readme.md` template with document inline
 
 <br>
 
