@@ -1,0 +1,54 @@
+{
+  "name": "component-name",
+  "version": "1.0.0",
+  "author": "{username}",
+  "license": "MIT",
+  "description": "{description}",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "./node_modules/poi/bin/cli.js",
+    "build:demo": "./node_modules/poi/bin/cli.js build",
+    "build": "rm -rf ./dist && ./node_modules/bili/dist/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/{username}/{component-name}"
+  },
+  "keywords": [
+    "keywords",
+    "for",
+    "npmjs.com"
+  ],
+  "bugs": {
+    "url": "https://github.com/{username}/{component-name}/issues"
+  },
+  "peerDependencies": {
+    "vue": "^2.5.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "bili": "^3.1.2",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "eslint-plugin-vue": "^4.5.0",
+    "node-sass": "^4.9.0",
+    "poi": "^10.2.7",
+    "rollup-plugin-copied": "^0.0.2",
+    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-vue": "^4.2.0",
+    "sass-loader": "^7.0.3",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 9"
+  ]
+}
