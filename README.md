@@ -15,9 +15,9 @@
 
 <p align="center">
   <b>
-    <a href="https://github.com/waynecz">Other link for instance</a>
+    <a href="https://github.com/waynecz/Homles">Homles: Server boilerplate you might need</a>
     |
-    <a href="https://github.com/waynecz/vue-img-inputer">Have a glance at Demo</a>
+    <a href="https://github.com/waynecz/vue-img-inputer">Place other links here</a>
   </b>
 </p>
 
